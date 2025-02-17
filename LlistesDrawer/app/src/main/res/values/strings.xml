@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LlistesDrawer</string>
+    <string name="cat_bikes" />
+    <string name="cat_cars" />
+    <string name="cat_crypto" />
+    <string name="navegacioLlistes" />
+    <string name="llistacars">Llista Cars</string>
+    <string name="llistabikes">Llista Bikes</string>
+    <string name="llistacrypto">Llista Crypto</string>
+    <string name="pantalla2">pantalla2</string>
+    <string name="pantalla3">pantalla3</string>
+</resources>
